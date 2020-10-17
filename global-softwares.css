@@ -41,11 +41,10 @@ body
     float: left;
     padding-left: 250px;
     padding-right: 250px;
-    background-image: url("Peacock.jpg");
+    background-image: url("peacock.jpg");
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
-    /*background-image: url(images/Peacock.jpg);*/
 }
 .header nav ul
 {
@@ -53,7 +52,7 @@ body
     margin: 0;
     padding: 0;
     overflow: hidden;
-    /*background-image: url("Peacock.jpg");*/
+    background-image: url("peacock.jpg");
     
     border-radius: 5px;
     -moz-border-radius: 5px;
@@ -239,7 +238,7 @@ p
     float: left;
     margin-bottom: 15px;
     height: 222px;
-    /*background-image: url("Peacock.jpg")*/
+    background-image: url("peacock.jpg");
 }
 /*quick link footer*/
 .quicklink-footer
@@ -250,7 +249,7 @@ p
     float: left;
     margin-bottom: 20px;
     width: 15%;
-    /*background-image: url("Peacock.jpg")*/
+    background-image: url("Peacock.jpg");
 }
 .main-footer nav
 {
@@ -298,7 +297,7 @@ p
     float: left;
     margin-bottom: 20px;
     width: 20%;
-    /*background-image: url("Peacock.jpg");*/
+    background-image: url("peacock.jpg");
     text-align: center;
 }
 .social-footer nav a:hover{
@@ -321,7 +320,7 @@ p
     float: left;
     margin-bottom: 20px;
     width: 30%;
-    /*background-image: url("Peacock.jpg");*/
+    background-image: url("Peacock.jpg");
     font-size: 15px;
 }
 .contact-text
@@ -345,7 +344,7 @@ p
     height: 222px;
     float: left;
     width: 35%;
-    /*background-image: url("Peacock.jpg");*/
+    background-image: url("peacock.jpg");
     color: #81a5d2;
     font-size: 15px; 
     -webkit-animation: mymove 8s infinite;
@@ -364,7 +363,7 @@ p
     clear: both;
     width: 100%;
     text-align: center;
-    /*background-image: url("Peacock.jpg");*/
+    background-image: url("Peacock.jpg");
     margin-top: 2;
     color: #81a5d2;
 }
